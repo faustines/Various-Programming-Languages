@@ -1,0 +1,15 @@
+mode: set
+hw2/nfa/nfa.go:24.8,31.20 2 1
+hw2/nfa/nfa.go:39.2,44.33 2 1
+hw2/nfa/nfa.go:57.2,57.31 1 1
+hw2/nfa/nfa.go:62.2,62.14 1 1
+hw2/nfa/nfa.go:31.20,32.21 1 1
+hw2/nfa/nfa.go:32.21,34.4 1 1
+hw2/nfa/nfa.go:34.8,36.4 1 1
+hw2/nfa/nfa.go:44.33,45.33 1 1
+hw2/nfa/nfa.go:45.33,46.49 1 1
+hw2/nfa/nfa.go:46.49,48.5 1 1
+hw2/nfa/nfa.go:48.9,49.44 1 1
+hw2/nfa/nfa.go:49.44,51.6 1 1
+hw2/nfa/nfa.go:57.31,58.24 1 1
+hw2/nfa/nfa.go:58.24,60.5 1 1
